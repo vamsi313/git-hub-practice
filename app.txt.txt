@@ -1,5 +1,5 @@
 Hello World
 Welcome to Git!!!!!
-Git is extremely  awesome!
+Git is very  awesome!
 
 tested and successfully added login feauture
