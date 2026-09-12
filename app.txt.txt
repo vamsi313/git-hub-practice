@@ -1,5 +1,9 @@
 Hello World
 Welcome to Git!!!!!
+<<<<<<< HEAD
 Git is very  awesome!
+=======
+Git is super  awesome!
+>>>>>>> experiment
 
 tested and successfully added login feauture
